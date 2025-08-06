@@ -29,7 +29,7 @@ An in-depth Power BI dashboard analyzing IPL data from 2008 to 2025. Built using
 - Match-wise drill-through insights
 
 📷 **Dashboard Preview**  
-![IPL Dashboard](images/ipl_dashboard.png)
+![IPL Dashboard]([images/ipl_dashboard.png](https://github.com/prashantgavli116/POWAR-BI-DASHBOARDS-PROJECT/blob/main/Screenshot%202025-08-06%20154249.png?raw=true))
 
 📁 [Download `.pbix`](./IPL_Dashboard/Dashboard.pbix)
 
