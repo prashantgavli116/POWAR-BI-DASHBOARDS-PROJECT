@@ -3,13 +3,9 @@
 📊 Power BI Dashboards Collection
 Welcome to my repository of Power BI dashboards! This collection showcases a range of interactive and insightful reports built using real-world data across various domains. Each dashboard highlights strong data modeling, DAX calculations, and visual storytelling skills.
 
-
-DASHBOARD-1 : 
-
-
 ## 📌 Dashboards Included
 
-###DASHBOARD-1 :  🏏 IPL Dashboard (2008–2025)
+### DASHBOARD-1 :  🏏 IPL Dashboard (2008–2025)
 
 An in-depth Power BI dashboard analyzing IPL data from 2008 to 2025. Built using DAX, slicers, filters, and drill-throughs to explore teams, players, matches, and more.
 
@@ -29,7 +25,7 @@ An in-depth Power BI dashboard analyzing IPL data from 2008 to 2025. Built using
 
 ---
 
-###DASHBOARD-2 :  💼 Sales Dashboard *(Coming soon)*
+### DASHBOARD-2 :  💼 Sales Dashboard *(Coming soon)*
 
 A business intelligence dashboard for tracking sales performance across regions, time periods, and product categories.
 
@@ -45,7 +41,7 @@ A business intelligence dashboard for tracking sales performance across regions,
 
 ---
 
-###DASHBOARD-3 :  👥 HR Analytics Dashboard *(Coming soon)*
+### DASHBOARD-3 :  👥 HR Analytics Dashboard *(Coming soon)*
 
 An HR-focused dashboard to visualize and analyze employee lifecycle, retention, and workforce diversity.
 
