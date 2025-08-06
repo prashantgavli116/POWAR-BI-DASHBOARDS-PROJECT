@@ -7,3 +7,15 @@ IPL Dashboard (2008–2025)	Insights into IPL performance by season, players, an
 Sales Dashboard	Tracks sales KPIs like revenue, profit, and region-wise performance.	Coming soon
 HR Analytics Dashboard	Analyzes employee attrition and HR metrics.	Coming soon
 
+✅ Features
+📈 Interactive Visualizations
+
+📊 Real-World Datasets
+
+⚙️ Custom DAX Measures & KPIs
+
+🧩 Drill-throughs, Filters, Slicers
+
+💡 Insightful Storytelling
+
+
