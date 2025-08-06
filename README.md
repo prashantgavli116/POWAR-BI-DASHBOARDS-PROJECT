@@ -3,7 +3,7 @@
 
 📊 Power BI Dashboard: Order and Sales Insights This Power BI dashboard provides an interactive and analytical view of sales and order data using two core tables: Details and Orders.
 
-📁 Project Structure leen_dashboard1.pbix: Main Power BI dashboard file. details.csv: Includes Order ID, Amount, Profit, Quantity, Category, Subcategory, and Payment Mode. orders.csv: Includes Order ID, Order Date, Customer, State, and City. screenshots/: Contains preview images of the dashboard. README.md: Project documentation (this file).
+: Main Power BI dashboard file. details.csv: Includes Order ID, Amount, Profit, Quantity, Category, Subcategory, and Payment Mode. orders.csv: Includes Order ID, Order Date, Customer, State, and City. screenshots/: Contains preview images of the dashboard. README.md: Project documentation (this file).
 
 🔍 Dashboard Features
 
