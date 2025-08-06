@@ -18,4 +18,24 @@ HR Analytics Dashboard	Analyzes employee attrition and HR metrics.	Coming soon
 
 💡 Insightful Storytelling
 
+🛠️ Tools Used
+Power BI Desktop
+
+DAX (Data Analysis Expressions)
+
+Power Query
+
+Excel / CSV for data
+
+GitHub for version control and portfolio presentation
+
+🚀 Getting Started
+To view a dashboard:
+
+Download the .pbix file from the respective folder.
+
+Open it using Power BI Desktop.
+
+Interact with the visuals or modify data sources as needed.
+
 
