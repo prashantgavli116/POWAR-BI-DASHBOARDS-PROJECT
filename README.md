@@ -60,5 +60,6 @@ An HR-focused dashboard to visualize and analyze employee lifecycle, retention, 
 
 🚀 How to Use
 
-Open .pbix in Power BI Desktop.
+Open IPL DASHBOARD BY PG.pbix in Power BI Desktop.
+
 Explore the dashboard — apply filters, slicers, and interact with visuals
