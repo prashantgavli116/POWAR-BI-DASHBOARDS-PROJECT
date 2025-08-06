@@ -54,4 +54,11 @@ An HR-focused dashboard to visualize and analyze employee lifecycle, retention, 
 📷 **Dashboard Preview**  
 <img width="1433" height="803" alt="Screenshot 2025-08-06 154515" src="https://github.com/user-attachments/assets/269c3e83-9474-463b-8fa7-f06e25fa15fc" />
 
+🛠 Tools Used
 
+# Microsoft Power BI Desktop Excel (for source data) GitHub (for version control and hosting)
+
+🚀 How to Use
+
+Open .pbix in Power BI Desktop.
+Explore the dashboard — apply filters, slicers, and interact with visuals
