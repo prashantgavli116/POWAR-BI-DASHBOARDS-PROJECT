@@ -1,7 +1,6 @@
 # POWAR-BI-DASHBOARDS-PROJECT
-1ST DASHBOARD
 
-📊 Power BI Dashboard: Order and Sales Insights This Power BI dashboard provides an interactive and analytical view of sales and order data using two core tables: Details and Orders.
-
+📊 Power BI Dashboards Collection
+Welcome to my repository of Power BI dashboards! This collection showcases a range of interactive and insightful reports built using real-world data across various domains. Each dashboard highlights strong data modeling, DAX calculations, and visual storytelling skills.
 
 
