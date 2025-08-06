@@ -1,30 +1,82 @@
 # POWAR-BI-DASHBOARDS-PROJECT
-📊 Power BI Dashboards Collection
-Welcome to my repository of Power BI dashboards! This collection showcases a range of interactive and insightful reports built using real-world data across various domains. Each dashboard highlights strong data modeling, DAX calculations, and visual storytelling skills.
+1ST DASHBOARD
 
-<h>
-📌 Dashboards Included
-Dashboard Title	Description	Link IPL DASHBOARD BY PG.pbix
+📊 Power BI Dashboard: Order and Sales Insights This Power BI dashboard provides an interactive and analytical view of sales and order data using two core tables: Details and Orders.
 
-  IPL Dashboard (2008–2025)	Insights into IPL performance by season, players, and teams. Built with DAX & slicers.	IPL_Dashboard.pbix
-Sales Dashboard	Tracks sales KPIs like revenue, profit, and region-wise performance.	Coming soon
-HR Analytics Dashboard	Analyzes employee attrition and HR metrics.	Coming soon
+📁 Project Structure leen_dashboard1.pbix: Main Power BI dashboard file. details.csv: Includes Order ID, Amount, Profit, Quantity, Category, Subcategory, and Payment Mode. orders.csv: Includes Order ID, Order Date, Customer, State, and City. screenshots/: Contains preview images of the dashboard. README.md: Project documentation (this file).
 
-✅ Features
-📈 Interactive Visualizations
+🔍 Dashboard Features
 
-📊 Real-World Datasets
+From the Details Table: 💵 Total Sales (Amount) 📈 Profit Analysis 📦 Quantity Sold 🛍 Category and Subcategory-wise Breakdown 💳 Payment Mode Distribution
 
-⚙️ Custom DAX Measures & KPIs
+From the Orders Table: 🧾 Order Timeline (by Date) 👤 Customer Overview 🌍 Geographic Distribution (States & Cities) 🔁 Order Trends Over Time
 
-🧩 Drill-throughs, Filters, Slicers
+Combined Insights: operations on my dashboard ¹ ²:
 
-💡 Insightful Storytelling
+Sales Metrics Tracking: Monitored total sales, profit, and customer demographics. Data Visualization: Used charts and graphs to show sales by category and payment method. Geographic Analysis: Analyzed sales by state and region. Customer Insights: Tracked customer behavior and purchase history. Product Performance: Evaluated best-selling products and low-performing products. Temporal Analysis: Monitored sales trends over time. These operations enable you to make data-driven decisions, optimize sales strategies, and improve customer satisfaction.
 
-🛠️ Tools Used
-Power BI Desktop
+📸 Dashboard Preview ![Preview]Screenshot (27)
 
-DAX (Data Analysis Expressions)
+🧰 Tools Used Microsoft Power BI Microsoft Excel / CSV for data GitHub for project sharing ▶ How to Use Download leen_dashboard1.pbix Open it in Power BI Desktop Load your dataset if required or explore with sample data Created with 💡 by [Gurleen Kaur]
+
+🎵 Spotify Streaming Insights Dashboard
+
+This repository contains a visually engaging Power BI dashboard showcasing streaming insights from Spotify data. The dashboard provides a comprehensive view of the most streamed tracks, top artists, genre trends, and more.
+
+📊 Dashboard Highlights
+
+Top 10 Streamed Songs A horizontal bar chart ranking the ten most streamed tracks. Streaming Trends by Genre and Artist A line graph summarizing the streams based on different genres and artists over time. KPIs & Key Metrics Total number of artists: 43 Highest rank: 49 Most streamed track count: 49 Songs per trend type (shown with a donut chart) Featured Artist Section A visual display of the most streamed artist with their image. Spotify Branding and Theme Clean dark theme with Spotify green highlights for better visibility and brand representation.
+
+🛠 Tools Used
+
+Power BI (for dashboard creation and data visualization) Data source: Spotify streaming dataset
+
+🧠 Purpose This dashboard is created to demonstrate skills in data storytelling using Power BI, with a focus on the music industry. It's a perfect example of combining interactive visuals with insightful data.
+
+📸 Preview
+
+snapshot3
+The snapshot gives a quick glimpse into the full interactive dashboard.
+
+SKI DASHBOARD
+
+⛄❄ Gurleen's Snowy Analytics – Power BI Dashboard ⛄❄
+
+📊 Project Overview Gurleen's Snowy Analytics is an interactive Power BI dashboard that visualizes ski resort data across various countries. It provides a dynamic and insightful look into resort features such as slopes, lift capacity, pricing, and snowpark distributions.
+
+📌 Key Highlights
+
+✅ Clean, intuitive UI with a snowy theme 🌍 Country-based Slicer for focused analysis 📅 Seasonal trend insights 📈 Visuals include: Line charts Treemaps Pie (donut) charts Bar charts 💡 KPIs like Total Slopes, Lift Capacity, Price, etc.
+📁 Files Included
+
+File Name Description
+
+-leen_dashboard2.pbix Main Power BI dashboard file -README.md Project description and guide -(snapshot2.png) Screenshots/ Folder with screenshots of the dashboard -leen_dashboard2.pdf -resorts.csv -snow.csv
+
+📷 Preview snapshot2# dashboards-by-leen
+
+📂 Dataset
+
+The dataset contains information on: Resorts Countries and continents Beginner and difficult slopes Surface and total lifts Lift capacity Prices, snowparks, and more
+
+🎯 Features Explained
+
+Country Slicer: Filters all visuals by selected country Treemap: Shows surface & total lifts by continent/country Season Filter: Shows first season month Top 10 Snowparks: Shows countries with most snowparks Resort by Highest Point: Comparative elevation of resorts Pie Chart: Price-wise distribution of resorts
+
+🛠 Tools Used
+
+Microsoft Power BI Desktop Excel (for source data) GitHub (for version control and hosting)
+🚀 How to Use
+
+Open leen_dashboard2.pbix in Power BI Desktop.
+Explore the dashboard — apply filters, slicers, and interact with visuals.
+🙋‍♀ Author
+
+Gurleen Kaur Alag 💼 LinkedIn (https://www.linkedin.com/in/gurleen-kaur-alag-442675345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+🐱 GitHub: Gurleenalag
+
+⭐ Star this Repo! If you like the project, don’t forget to ⭐ star the repository!ns)
 
 Power Query
 
