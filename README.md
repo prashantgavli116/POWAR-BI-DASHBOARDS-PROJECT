@@ -48,7 +48,8 @@ A business intelligence dashboard for tracking sales performance across regions,
 - KPIs, targets vs actuals, and forecast
 
 📷 **Dashboard Preview**  
-![Sales Dashboard](images/sales_dashboard.png)
+
+<img width="1413" height="807" alt="Screenshot 2025-08-06 154354" src="https://github.com/user-attachments/assets/60bf7098-2507-412e-bdac-9cff35d26852" />
 
 ---
 
@@ -63,5 +64,6 @@ An HR-focused dashboard to visualize and analyze employee lifecycle, retention, 
 - Diversity and employee satisfaction
 
 📷 **Dashboard Preview**  
-![HR Dashboard](images/hr_dashboard.png)
+<img width="1433" height="803" alt="Screenshot 2025-08-06 154515" src="https://github.com/user-attachments/assets/269c3e83-9474-463b-8fa7-f06e25fa15fc" />
+
 
