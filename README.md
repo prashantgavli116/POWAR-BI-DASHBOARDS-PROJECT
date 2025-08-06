@@ -30,10 +30,10 @@ An in-depth Power BI dashboard analyzing IPL data from 2008 to 2025. Built using
 
 📷 **Dashboard Preview**  
 ![IPL Dashboard]([Screenshot <img width="1436" height="813" alt="Screenshot 2025-08-06 154249" src="https://github.com/user-attachments/assets/8022f3ee-4d24-4ada-824a-8d725420ca0a" />
-2025-08-06 154249.png)
 
 
-📁 [Download `.pbix`](./IPL_Dashboard/Dashboard.pbix)
+
+📁 [Download `.pbix`](IPL DASHBOARD BY PG.pbix)
 
 ---
 
